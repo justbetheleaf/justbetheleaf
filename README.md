@@ -1,4 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
+
+
+<h2 align="center">Hi Fellow 👋, I'm Amanda ✨</h2>
+
+
+
+
 
 <!--
 **justbetheleaf/justbetheleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
