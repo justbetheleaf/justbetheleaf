@@ -8,8 +8,8 @@
 🔭 &nbsp;As a dedicated Computer Engineering student, I am deeply immersed in cutting-edge technologies.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;Recently, I've been focusing on earning certifications that fuel innovation.\
-💼 &nbsp;I am open to consultations and internship opportunities.\
 ✍️ &nbsp;In my free time, I focus on earning certifications that drive innovation, and I also enjoy barismo as a hobby.\
+💼 &nbsp;I am open to consultations and internship opportunities.\
 ✉️ &nbsp;You can shoot me an email at amanda.ramirezvi@gmail.com
 
 
