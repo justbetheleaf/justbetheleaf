@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="38px" height="38px"></img> Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,aws,gcp,docker,jenkins,kubernetes,git,github,visualstudio,windows,linux)](https://skillicons.dev)
   
 ## Get in touch with me 👋:
 <br>
